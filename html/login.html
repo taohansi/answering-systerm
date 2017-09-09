@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>login</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+	<script language="javascript" type="text/javascript" src="../js/login.js"></script> 
+	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+	<link rel="stylesheet" href="../css/w3c.css" type ="text/css">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+<div class="w3-card-4">
+<div class="w3-container w3-teal"><h2>登录界面</h2></div>
+<form class="w3-container">
+<label class="w3-label w3-text-teal"><h5>用户名：</h5></label><input class="w3-input w3-border w3-white" type="text" id="name" value="">
+<br>
+<label class="w3-label w3-text-teal"><h5>密码：</h5></label><input class="w3-input w3-border w3-white" type="password" id="password" value="">
+<br>
+<button type="button" class="w3-btn w3-blue"onclick="login()"><h7>登陆</h7></button>
+<button type="button" class="w3-btn w3-blue"onclick="register()"><h7>注册</h7></button>
+<button type="button" class="w3-btn w3-blue"onclick="admin()"><h7>管理员入口</h7></button>
+
+</form>
+
+
+ <h4 id="tip" class="w3-container w3-yellow"></h4>
+
+</div>
+</body>
+</html>
+

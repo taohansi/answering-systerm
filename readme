@@ -1,0 +1,26 @@
+在 iis 配置中
+1 启用父路径
+2 启用报错
+3 启用 32位 应用池程序
+
+ajax php array
+1 不要加乱加header 卒
+2 相信stackoverflow
+3 datatype 设置为回调函数的参数数据类型
+
+synatax 
+while {...} 中 i=0 应在括号外 i++ 在括号内
+
+notice 
+注意清除缓存-->用session 解决 ，当用户成功登陆时建立session
+isset 用于判断是否创建过变量,session ||
+js 必须刷新一遍才能正常运行 否则加载缓存
+css button 前加<p></p> w3c
+
+
+problem 
+在有score的情况下无法执行跳转
+
+o182c39104.51mypc.cn
+
+

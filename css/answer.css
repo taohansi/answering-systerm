@@ -1,0 +1,50 @@
+.floatBox
+{
+	position:fixed;
+	width:310px;
+	height: 200px;
+	left:1040px;
+	top:60px;
+	padding:0.5em;
+	
+}
+
+.boxTitle
+{
+	clear:both;
+	
+	
+	color:black;
+}
+.index0
+{
+	float:left;
+	width:2em;
+	color:black;
+	background-color: white;
+	padding:0.2em 0.6em;
+	margin:0.1em;
+	text-align: center;
+	border-style: solid;
+	border-color: black;
+
+}
+
+.noselect
+{
+	 -moz-user-select:none; /*火狐*/
+     -webkit-user-select:none; /*webkit浏览器*/
+    -ms-user-select:none; /*IE10*/
+     -khtml-user-select:none; /*早期浏览器*/
+      user-select:none;
+
+}
+.size
+{
+	width:70%;
+	height:25%;
+	margin:20px;
+	padding:5px;
+	background-color:#EEEEEE;
+}
+
