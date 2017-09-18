@@ -3,7 +3,7 @@ a simple webpage for the contest
 # 东南大学校史竞赛答题系统
 ## 环境
 linus(windows)+php+mysql+css+html+js+jquery
-### 框架
+## 框架
 w3c.css
 ## 功能
 1 登陆界面（手机端和电脑端） 登陆 注册 管理员入口<br>
@@ -17,4 +17,4 @@ w3c.css
 4 .js 包含脚本<br>
 5 .css 包含自己写的css 与w3c.css<br>
 
-[网站测试域名](https://qxu1192050053.my3w.com)
+网站测试域名 qxu1192050053.my3w.com
